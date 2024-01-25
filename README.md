@@ -6,7 +6,7 @@
 - <b>3rd Year Computing Project</b>
   - [Investigating a Collision Between Two Globular Clusters](https://github.com/Mkryo77/computing_project) <b>
 - <b>3rd Year Lab Project</b>
-  - [Finding the Period-Luminosity Relation of Cepheid Variables]()
+  - [Finding the Period-Luminosity Relation of Cepheid Variables](https://github.com/Mkryo77/labprojyr3)
 
 <h2>👨🏻‍💻 Personal Projects</h2>
 
