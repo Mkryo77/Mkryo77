@@ -10,7 +10,7 @@
 
 <h2>👨🏻‍💻 Personal Projects</h2>
 
-- [Hangman in the Terminal]()
+- [Hangman in the Terminal](https://github.com/Mkryo77/hangman)
 
 <!--
 **Mkryo77/Mkryo77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
