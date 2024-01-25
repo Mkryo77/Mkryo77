@@ -4,13 +4,13 @@
 - <b>Masters Project</b>
   - [Plant Species and Pathogen Identification with Reflectance Spectra, UAV Imagery and Machine Learning](https://github.com/Mkryo77/masters_project)
 - <b>3rd Year Computing Project</b>
-  - [Investigating a Collision Between Two Globular Clusters](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+  - [Investigating a Collision Between Two Globular Clusters]() <b>
 - <b>3rd Year Lab Project</b>
-  - [Finding the Period-Luminosity Relation of Cepheid Variables](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Finding the Period-Luminosity Relation of Cepheid Variables]()
 
 <h2>👨🏻‍💻 Personal Projects</h2>
 
-- [Hangman in the Terminal](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Hangman in the Terminal]()
 
 <!--
 **Mkryo77/Mkryo77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
