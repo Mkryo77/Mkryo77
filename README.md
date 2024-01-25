@@ -2,7 +2,7 @@
 <h2>🎓 University Projects:</h2>
 
 - <b>Masters Project</b>
-  - [Plant Species and Pathogen Identification with Reflectance Spectra, UAV Imagery and Machine Learning](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Plant Species and Pathogen Identification with Reflectance Spectra, UAV Imagery and Machine Learning](https://github.com/Mkryo77/masters_project)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
