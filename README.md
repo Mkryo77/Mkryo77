@@ -4,7 +4,7 @@
 - <b>Masters Project</b>
   - [Plant Species and Pathogen Identification with Reflectance Spectra, UAV Imagery and Machine Learning](https://github.com/Mkryo77/masters_project)
 - <b>3rd Year Computing Project</b>
-  - [Investigating a Collision Between Two Globular Clusters](https://github.com/Mkryo77/computing_project) <b>
+  - [Investigating a Collision Between Two Globular Clusters](https://github.com/Mkryo77/computing_project)
 - <b>3rd Year Lab Project</b>
   - [Finding the Period-Luminosity Relation of Cepheid Variables](https://github.com/Mkryo77/labprojyr3)
 
