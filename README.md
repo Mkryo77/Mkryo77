@@ -3,7 +3,7 @@
 <h2>🖥️ Work Projects :</h2>
 
 - <b>Fraud Rule Creator</b>
-  - [Using XGBoost and Decision Tree Machine Learning Algoorithms to Automate Fraud Rules](--https://github.com/Mkryo77/fraud_rule_creator)
+  - [Using XGBoost and Decision Tree Machine Learning Algoorithms to Automate the Creation of Fraud Rules](--https://github.com/Mkryo77/fraud_rule_creator)
 - <b>Email Domain Monitoring</b>
   - [Microsoft Excel Dashboard using Dynamic Arrays to Monitor Suspicious Email Domains](--https://github.com/Mkryo77/email_domain_monitoring)
 
