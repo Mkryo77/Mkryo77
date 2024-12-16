@@ -1,11 +1,11 @@
 <h1>Hi, I'm Mark! <br/><a href="https://www.linkedin.com/in/mark-ryan-43223029a/">Fraud Analyst at The Very Group with an MPhys Physics and Astronomy from Durham University</a>
 
-<h2>🎓 Work Projects (Dummy Data):</h2>
+<h2>🖥️ Work Projects (Dummy Data):</h2>
 
 - <b>Fraud Rule Creator</b>
-  - [Using XGBoost and Decision Tree Machine Learning Algoorithms to Automate Fraud Rules](https://github.com/Mkryo77/masters_project)
+  - [Using XGBoost and Decision Tree Machine Learning Algoorithms to Automate Fraud Rules](--https://github.com/Mkryo77/fraud_rule_creator)
 - <b>Email Domain Monitoring</b>
-  - [Microsoft Excel Dashboard using Dynamic Arrays to Monitor Suspicious Email Domains](https://github.com/Mkryo77/computing_project)
+  - [Microsoft Excel Dashboard using Dynamic Arrays to Monitor Suspicious Email Domains](--https://github.com/Mkryo77/email_domain_monitoring)
 
 <h2>🎓 University Projects:</h2>
 
