@@ -1,5 +1,5 @@
 <h1>Hi, I'm Mark! <br/><a href="https://www.linkedin.com/in/mark-ryan-43223029a/">Fraud Analyst at The Very Group 
-  MPhys Physics and Astronomy from Durham University</a>
+  \nMPhys Physics and Astronomy from Durham University</a>
 
 <h2>🖥️ Work Projects :</h2>
 
