@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mark! <br/><a href="https://www.linkedin.com/in/mark-ryan-43223029a/">Fraud Analyst at The Very Group with an MPhys Physics and Astronomy from Durham University</a>
 
-<h2>🖥️ Work Projects (Dummy Data):</h2>
+<h2>🖥️ Work Projects :</h2>
 
 - <b>Fraud Rule Creator</b>
   - [Using XGBoost and Decision Tree Machine Learning Algoorithms to Automate Fraud Rules](--https://github.com/Mkryo77/fraud_rule_creator)
